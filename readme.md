@@ -1,18 +1,6 @@
----
-title: Fellowship of the Ring DOM Manipulation
-type: lab
-duration: "1:25"
-creator:
-    name: Phil Lamplugh
-    city: NYC
-competencies: Front-end Intro
----
-
 # Fellowship of the Ring DOM Manipulation
 
 ## Introduction
-
-> ***Note:*** _This can be a pair programming activity or done independently._
 
 To practice manipulating the DOM, we've provided you with a series of steps in a `.js` file.  Create a function for each of the steps to practice DOM Manipulation and JavaScript. These should each be called in order after the window has loaded.
 
